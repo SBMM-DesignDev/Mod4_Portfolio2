@@ -12,7 +12,6 @@ section {
     background-color: rgb(245, 245, 245,);
 }
 
-<<<<<<< HEAD
 .container {
     padding: 50px 0;
     width: 100%;
@@ -161,33 +160,23 @@ input:focus, textarea:focus {
     border-color: #f06449;
 }
 
-=======
->>>>>>> b971ec7594d79d354e577fba8486198f7f6cac26
 
 /* LANDING PAGE */
 
 #landing-page {
     min-height: 100vh;
-<<<<<<< HEAD
    
-=======
->>>>>>> b971ec7594d79d354e577fba8486198f7f6cac26
 }
 
 .header {
     position: absolute;
     top: 50%;
     left: 50%;
-<<<<<<< HEAD
     transform: translate(-50%, -50%);
-=======
-    transform: translate(-50, -50);
->>>>>>> b971ec7594d79d354e577fba8486198f7f6cac26
     width: 100%;
     max-width: 1000px;
 }
 
-<<<<<<< HEAD
 section {
     background-color: rgb(245, 245, 245);
 }
@@ -234,8 +223,6 @@ section {
     right: 40px;
 
 }
-=======
->>>>>>> b971ec7594d79d354e577fba8486198f7f6cac26
 /* NAVIGATION BAR*/
 
 nav {
@@ -269,7 +256,6 @@ nav {
 
 .fa-solid .fa-circle-half-stroke {
     font-size: 20px;
-<<<<<<< HEAD
 }
 
 /* 
@@ -563,6 +549,3 @@ footer {
 .footer__copyright {
     color: white;
 }
-=======
-}
->>>>>>> b971ec7594d79d354e577fba8486198f7f6cac26
